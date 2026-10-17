@@ -1,6 +1,6 @@
 # pxa-go-sdk — release candidate source
 
-Go module `github.com/tiling-pxa/pxa-go-sdk`, using the committed go.mod / go.sum and toolchain. Public source and prerelease tags use the `tiling-pxa/pxa-go-sdk` repository. Release candidate: `v0.1.0-rc.1`.
+Go module `github.com/tiling-pxa/pxa-go-sdk`, using the committed go.mod / go.sum and toolchain. Public source and prerelease tags use the `tiling-pxa/pxa-go-sdk` repository. Release candidate: `v0.1.0-rc.2`.
 
 ## Validate the source
 

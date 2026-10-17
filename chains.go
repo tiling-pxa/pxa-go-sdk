@@ -73,7 +73,7 @@ var PXAMainnet = Chain{
 	Name:           "PXA Chain",
 	NativeCurrency: NativeCurrency{Name: "PXA", Symbol: "PXA", Decimals: 18},
 	RPCURL:         "https://rpc.pxachain.com",
-	WSURL:          "wss://wss.pxachain.com",
+	WSURL:          "wss://rpc.pxachain.com/ws",
 	Explorer: Explorer{
 		Name: "PXA Chain Explorer",
 		URL:  "https://explorer.pxachain.com",
